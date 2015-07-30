@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  UIImage+ImageByAlphaComponent.m
 //  RoundedRectPerfomanceTest
 //
 //  Created by xuzhaocheng on 15/7/30.
 //  Copyright (c) 2015年 nmlab. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "UIImage+ImageByAlphaComponent.h"
 
-@interface ViewController : UIViewController
-
+@implementation UIImage (ImageByAlphaComponent)
 
 @end
-
